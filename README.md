@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @synthpyt or u can just call me synth
-- CS student at the German International university (GIU)
+- 🧑🏻‍💻 CS student at the German International university (GIU)
 - 🌱 I’m currently learning Python/Java
 - 📫 How to reach me You can find me on discord at Synth.py#1893 / synthypyt@gmail.com !
 - personal website (Updated often) : https://yossefhisham.my.canva.site/portfolio
