@@ -20,5 +20,5 @@ Hey , I'm Yossef. I'm passionate about Software Engineering 🧑‍💻 , Game d
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/svnth) 
 
  
+![39e53d68f3eeb218210b46bc22a71a75](https://github.com/synthpyt/synthpyt/assets/93604359/3a59cad8-683c-46bb-a3fc-196ef7c16222)
 
-![giphy (1) (1)](https://github.com/synthpyt/synthpyt/assets/93604359/3e6721e0-91d0-4101-aab5-fa636f0ca591)
