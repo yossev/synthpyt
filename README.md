@@ -6,8 +6,6 @@ Hey , I'm Yossef. I'm passionate about Software Engineering 🧑‍💻 , Web De
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yossefwrld) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yossefhishampyt) 
 
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 
 
 ### ✍️ Random Dev Quote
