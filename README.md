@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey , I'm Yossef. I'm passionate about Software Engineering 🧑‍💻 , Game development 🎮 and Competitive Programming </>
+Hey , I'm Yossef. I'm passionate about Software Engineering 🧑‍💻 , Web Development 🌐 ,  Game development 🎮 and Competitive Programming </>
 
 
 ## 🌐 Socials:
