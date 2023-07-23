@@ -14,8 +14,7 @@ Hey , I'm Yossef. I'm passionate about Software Engineering 🧑‍💻 , Web De
 ---
 [![](https://visitcount.itsvg.in/api?id=synthpyt&icon=3&color=12)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/svnth) 
+
 
  
 ![39e53d68f3eeb218210b46bc22a71a75](https://github.com/synthpyt/synthpyt/assets/93604359/3a59cad8-683c-46bb-a3fc-196ef7c16222)
