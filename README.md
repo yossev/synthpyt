@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yossef</h1>
 - 🤝 I’m looking for help with **Machine Learning**
+
 - 🌱 I’m currently learning **C++**
+
 - 💬 Ask me about **OOP Concepts**
+  
 - 📫 How to reach me **yossef.hisham2004@gmail.com**
 
 <div> <a href="https://www.linkedin.com/in/yossefhishampyt" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
